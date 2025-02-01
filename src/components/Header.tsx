@@ -16,7 +16,7 @@ const Header = () => {
         to="/"
         className="text-4xl font-light tracking-[1.08px] max-sm:text-3xl max-[400px]:text-2xl"
       >
-        FASHION
+        CAN'T RUSH GREATNESS
       </Link>
       <div className="flex gap-4 items-center max-sm:gap-2">
         <Link to="/search">
