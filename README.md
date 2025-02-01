@@ -90,3 +90,4 @@ npm start
 <h3>Search page</h3>
 
 ![search page](https://github.com/user-attachments/assets/a62c71be-5424-4bf5-a660-352d507764a5)
+# Can-t-rush-greatness
